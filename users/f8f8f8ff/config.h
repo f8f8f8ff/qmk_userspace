@@ -1,8 +1,7 @@
 #pragma once
 
 #define TAPPING_TERM 200
-// #define QUICK_TAP_TERM 0
-#define HOLD_ON_OTHER_KEYPRESS
+#define HOLD_ON_OTHER_KEY_PRESS
 
 // used to be 250
 #ifndef LEADER_TIMEOUT
