@@ -1,6 +1,7 @@
 {
     "userspace_version": "1.1",
     "build_targets": [
-        ["crkbd", "f8f8f8ff"]
+        ["crkbd", "f8f8f8ff"],
+        ["lily58/rev1", "f8f8f8ff"]
     ]
 }
